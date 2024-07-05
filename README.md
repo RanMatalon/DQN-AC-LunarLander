@@ -1,7 +1,7 @@
 # DQN-AC-LunarLander
 In this project the goal is to solve the lunar lander game, which means the lander needs to land safely with two of the spaceship's legs on the ground, between the two flags.
 For full documentation of the game and more games you are invited to visit gymnasium website: https://gymnasium.farama.org/environments/box2d/lunar_lander/
-(Animation of the DQN model solving the game is added at the files).
+(Animation of the DQN model solving the game is added at the end).
 
 We will see the difference between the Reinforcement Learning methods of DQN (Deep Q Network) and AC (Actor Critic).
 
@@ -27,3 +27,9 @@ The AC model:
 ![image](https://github.com/RanMatalon/DQN-AC-LunarLander/assets/138029692/a5db2035-f040-4340-8ae3-695807543446)
 
 By the results that both methods yield it can be seen that DQN yields better reward but with higher variance, in contrast to AC that yields lower rewards but lower variance.
+
+Animation of the DQN model:
+
+https://github.com/RanMatalon/DQN-AC-LunarLander/assets/138029692/00424ab8-9cc5-49c1-94c9-cee2c810b5e3
+
+
