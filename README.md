@@ -1,5 +1,9 @@
 # DQN-AC-LunarLander
-In this project we will see the difference between the Reinforcement Learning methods of DQN (Deep Q Network) and AC (Actor Critic).
+In this project the goal is to solve the lunar lander game, which means the lander needs to land safely with two of the spaceship's legs on the ground, between the two flags.
+For full documentation of the game and more games you are invited to visit gymnasium website: https://gymnasium.farama.org/environments/box2d/lunar_lander/
+(Animation of the DQN model solving the game is added at the files).
+
+We will see the difference between the Reinforcement Learning methods of DQN (Deep Q Network) and AC (Actor Critic).
 
 The DQN model is a value based method being updated trought a "Q step" that updating Q (the state-action reward function).
 Q step:
